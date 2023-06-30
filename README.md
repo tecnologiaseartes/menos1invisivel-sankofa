@@ -13,4 +13,4 @@ Criado para as apresentações do grupo **Menos 1 invisível** dem abril de 2023
 ## Para Executar
 - Baixe e deszipe o conteúdo do repositório;
 - Instale as dependências (instruções acima);
-- Abra no Thonny uma das versões, arquivos `XXXX.py` e execute usando o botão com o triângulo verde.
+- Abra no Thonny uma das versões, arquivos `menosum_XXXX.py` e execute usando o botão com o triângulo verde.
