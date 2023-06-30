@@ -1,7 +1,7 @@
 # Menos 1 invisível: Sankofa
 ## Código da ferramenta para projeção interativa
 
-Criado para as apresentações do grupo **Menos 1 invisível** dem abril de 2023 no Sesc Av. Paulista.
+Criado para as apresentações do grupo **Menos 1 invisível** em abril de 2023 no Sesc Av. Paulista.
 
 ## Dependências
 - Python, [py5](htpps://py5coding.org)
